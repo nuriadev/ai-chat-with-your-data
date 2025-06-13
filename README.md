@@ -1,5 +1,5 @@
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue)]()
-[![Streamlit](https://img.shields.io/badge/streamlit-1.##-FF4B4B)]()
+[![Streamlit](https://img.shields.io/badge/streamlit-1-FF4B4B)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Run on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your-username/ai-chat-with-your-data/main/main.py)
 
