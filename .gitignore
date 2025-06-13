@@ -1,3 +1,14 @@
+# Python artifacts
 __pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
 venv/
 .env
+
+# macOS AppleDouble files
+._*
+
+# Optional editor files
+.vscode/
